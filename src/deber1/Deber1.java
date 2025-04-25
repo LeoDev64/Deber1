@@ -16,6 +16,11 @@ public class Deber1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Leopoldo Bolaños");
+        System.out.println("Edad: 20");
+        System.out.println("NRC: 20545");
+        System.out.println("Programacion Orientada a Objetos");
+        System.out.println("25/04/2025");
+        System.out.println("Ing: Victor Cusco");
     }
     
 }
